@@ -1,0 +1,40 @@
+
+body {
+    font-family: 'Inter', sans-serif; 
+    background-color: #E0FFFF	;
+}
+
+.navbar {
+    background-color: #4682B4;
+    flex-basis: flex;
+}
+
+
+.navbar a {
+    color: #fff !important;
+}
+
+.container {
+    margin-top: 20px;
+    text-align: left;
+}
+
+h1, h2 {
+    text-align: center;
+    color: black;
+    font-weight:bold;
+}
+
+.form-group {
+        color: black;
+    margin-bottom: 15px;
+}
+
+p{
+    color: black;
+}
+
+.pIndex{
+    text-align: center !important;
+}
+
